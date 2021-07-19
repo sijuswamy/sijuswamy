@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## About me
 
-Faculty member in Department of Mathematics, Saintgits College of Engineering (Autonomous), Kottayam. Handling classes in pure & Applied Mathematics , and presently serving as Resource Person for the AI & ML course offered by IIT Madras and Gov.~ of Kerala. Serving as Data Analysis and Analytics consultant for Finance, Economics , Social Sciences and Engineering .
+Faculty member in Department of Mathematics, Saintgits College of Engineering (Autonomous), Kottayam. Handling classes in pure & Applied Mathematics , and presently serving as a Resource Person for the AI & ML course offered by IIT Madras and Gov.~ of Kerala. Serving as Data Analysis and Analytics consultant for Finance, Economics , Social Sciences and Engineering .
 
 As a part of the professional life I have over 17 years of experience in Teaching that involved undergraduate, Graduate, Post Graduate and Professional courses in Science , Engineering& Technology.
 
