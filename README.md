@@ -20,7 +20,7 @@ Faculty member in Department of Mathematics, Saintgits College of Engineering (A
 
 As a part of the professional life I have over 17 years of experience in Teaching that involved undergraduate, Graduate, Post Graduate and Professional courses in Science , Engineering& Technology.
 
-During my stint at computational mathematics, I  have trained myself with ToTs from prominent institutes like IIT(M), ASDC (Gov.~ of Kerala) in modern technology like Machine Learning, Deep Learning, Reinforcement Learning and Business Analytics. In my parent institution, I also looked after skill training related to Research, AI and Analytics services of research scholars. 
+During my stint at computational mathematics, I  have trained myself with ToTs from prominent institutes like IIT(M), ASDC (Gov.~ of Kerala) in modern technologies like Machine Learning, Deep Learning, Reinforcement Learning and Business Analytics. In my parent institution, I also looked after skill training related to Research, AI and Analytics services of research scholars. 
 
  I have led many FDPs and STTPs in Applied Mathematics and Artificial Intelligence.
 
