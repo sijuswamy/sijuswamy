@@ -34,7 +34,7 @@ During my stint at computational mathematics, I  have trained myself with ToTs f
 * Scholorship for Post Graduation in Mathematics from National Board for Higher Mathematics
 * Fourth Rank in M.Sc(Mathematics) from Mahatma Gandhi University
 * IUCEE certified teaching faculty through International Engineering Educators Certification Program 
-* Selected as Resourse person for AI\& ML programme offered by Gov.~of Kerala with the technical support of IIT, Madras.
+* Selected as a Resourse person for AI\& ML programme offered by Gov.~of Kerala with the technical support of IIT, Madras.
 
 >**Recent FDPs/STTPs as Resource Person**
 
