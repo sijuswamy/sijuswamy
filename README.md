@@ -45,7 +45,7 @@ Kottayam from 31 November, 2018 to 1 st December, 2018.
 2018 to 4 th December, 2019.
 
 * Research Methodology & Data Analysis through SPSS, One Day Workshop Organized by Saintgits College of Applied Sciences on 6 th December, 2018.
-* Mathematical Modelling & Optimization of systems, Organized by FSDT Organized by Gov.Engg. College, Kannur from 17 th January, 2019 to 18 th January, 2019.
+* Mathematical Modelling & Optimization of systems, FSDT Organized by Gov.Engg. College, Kannur from 17 th January, 2019 to 18 th January, 2019.
 * Scientific Computing for Mathematics Graduates, One Day Workshop Organized by Department of Mathematics, Al-Ameen College, Edathala, Kochi, Kerala on 19 th
 February, 2019.
 * Mathematical foundations of Machine Learning & ML models , IIT Madras Certification Programme by Gov.Of Kerala from 27 th January 2018 to 25 th July, 2019.
