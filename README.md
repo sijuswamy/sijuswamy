@@ -66,5 +66,5 @@ from 1 st December, 2019 to 2 nd December, 2019.
 * Mathematical Foundations for Machine Learning, Six days KTU sponsored FDP organized by Department of Computer Science & Engineering, Sree Budha College of Engineering from 22 to 26 March, 2021.
 * Hands-on-Training in Deep learning, Workshop organized by Department of Computer Science, College Of Engineering, Vadakara from 18 to 20 March, 2021.
 * Python Programming Workshop Organized by the Bell Institute of Research & development Studies from 15 to 29 May, 2021.
-* Deep Learning & Neural Networks, Five days FDP organized by Department of Electronics & Communication Engineering, Mohandas College of Engineering, Thiruvananthapuram from 5 to 9 July, 2021.
+* Deep Learning & Neural Networks, Five days KTU sponsored FDP organized by Department of Electronics & Communication Engineering, Mohandas College of Engineering, Thiruvananthapuram from 5 to 9 July, 2021.
 * Artificial Intelligence & Applications, Six Days AICTE Sponsored FDP Organized by Marian College of Engineering from 26 to 31 July, 2021.
