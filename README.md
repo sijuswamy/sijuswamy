@@ -20,7 +20,7 @@ Faculty member in Department of Mathematics, Saintgits College of Engineering (A
 
 As a part of the professional life I have over 18 years of experience in Teaching that involved Undergraduate, Graduate, Post Graduate and Professional courses in Science , Engineering& Technology.
 
-During my stint at computational mathematics, I  have trained myself with ToTs from prominent institutes like IIT(M), ASDC (Gov.~ of Kerala) in modern technologies like Machine Learning, Deep Learning, Reinforcement Learning and Business Analytics. In my parent institution, I also looked after skill training related to Research, AI and Analytics services of research scholars. 
+During my stint at computational mathematics, I  have trained myself with ToTs from prominent institutes like IIT(M), ASDC (Gov.~ of Kerala) in modern technologies like Machine Learning, Deep Learning, Reinforcement Learning and Business Analytics. Currently handling skill training related to Research, AI and Analytics services of research scholars. 
 
  I have led many FDPs and STTPs in Applied Mathematics and Artificial Intelligence.
 
@@ -71,3 +71,6 @@ from 1 st December, 2019 to 2 nd December, 2019.
 * `Mathematical Foundations of Machine Learning`, Five Days AICTE Sponsored ATAL FDP organized by Sree Budha College of Engineering from 22 November, 2021 to 26 November, 2021.
 * `Research Methodology and Effective Tools for Academic & Research Documentation`, Five Days FDP organized by SSN College of Engineering, Chennai from 7 March, 2022 to 11 March, 2022.
 * `Significance of Computational Mathematics in Engineering & Applications`, Invited Lecture organized by Shree Ramdeobaba College of Engineering and Management , Nagpur on 9 April, 2022.
+* ` Data Analytics using R`, One day workshop organized by Sree Budha College of Engineering, Pattoor on 22 July, 2022.
+* ` Artificial Intelligence & Applications, AICTE sponsored six days STTP organized by Marian College of Engineering, Thiruvananthapuram from 20 August, 2022 to 3 September, 2022.
+# **Next Session:** ` Artificial Intelligence & Data Science for Mathematics Tribe`, one day workshop organized by Department of Mathematics, Assumption Autonomous College, Changanachery on 17 September, 2022
