@@ -73,5 +73,6 @@ from 1 st December, 2019 to 2 nd December, 2019.
 * `Significance of Computational Mathematics in Engineering & Applications`, Invited Lecture organized by Shree Ramdeobaba College of Engineering and Management , Nagpur on 9 April, 2022.
 * ` Data Analytics Using R`, One day workshop organized by Sree Budha College of Engineering, Pattoor on 22 July, 2022.
 * ` Artificial Intelligence & Applications`, AICTE sponsored six days STTP organized by Marian College of Engineering, Thiruvananthapuram from 20 August, 2022 to 3 September, 2022.
-### **Next Session:** 
 * ` Artificial Intelligence & Data Science for Mathematics Tribe`, one day workshop organized by Department of Mathematics, Assumption Autonomous College, Changanachery on 17 September, 2022
+### **Next Session:** 
+* `Artificial Intelligence and Data Analytics for Electrical Engineering Application`, one day workshop organized by Department of Electrical & Electronics Engineering, Sree Budha College of Engineering, Pattoor on 27, October 2022.
