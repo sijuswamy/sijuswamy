@@ -83,11 +83,11 @@ from 1 st December, 2019 to 2 nd December, 2019.
 
 ## New sessions from December 2022 onwards 
  
-**Foundations of Quantum Computing**
+⚡**Foundations of Quantum Computing**
 
-**Hands-on training in Quantum Computing using `Python`**
+⚡**Hands-on training in Quantum Computing using `Python`**
 
-**Process Automation using R**
+⚡**Process Automation using R**
 
 
 
