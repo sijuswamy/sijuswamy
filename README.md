@@ -80,3 +80,14 @@ from 1 st December, 2019 to 2 nd December, 2019.
 ### **Next Session:**
 
 * ` Workshop on fundamentals of data analytics using R`, organized by Department of Computer Science, Ilahia College of Engineering and Technology, Muvattupuzha on 25 November, 2022.
+
+## New sessions from December 2022 onwards 
+ 
+**Foundations of Quantom Computing**
+
+**Hands-on training in Quantom Computing using `Python`**
+
+**Process Automation using R**
+
+
+
