@@ -74,13 +74,14 @@ from 1 st December, 2019 to 2 nd December, 2019.
 * ` Data Analytics Using R`, One day workshop organized by Sree Budha College of Engineering, Pattoor on 22 July, 2022.
 * ` Artificial Intelligence & Applications`, AICTE sponsored six days STTP organized by Marian College of Engineering, Thiruvananthapuram from 20 August, 2022 to 3 September, 2022.
 * ` Artificial Intelligence & Data Science for Mathematics Tribe`, one day workshop organized by Department of Mathematics, Assumption Autonomous College, Changanachery on 17 September, 2022
-* `Artificial Intelligence and Data Analytics for Electrical Engineering Application`, one day workshop organized by Department of Electrical & Electronics Engineering, Sree Budha College of Engineering, Pattoor on 27, October 2022.
+* `Artificial Intelligence and Data Analytics for Electrical Engineering Applications`, one day workshop organized by Department of Electrical & Electronics Engineering, Sree Budha College of Engineering, Pattoor on 27, October 2022.
+* ` Foundations of Applied Mathematics`, KTU Bridge programme for B.Tech Students, organized by Gov.~Engineering College (RIT), Kottayam on 5 November, 2022.
 * `Need and significance of Computational Mathematics` , interactive demonstration organized by Department of Mathematics, Baselius College, Kottayam on 16 November, 2022.
 
 ### **Next Session:**
 
-* ` Workshop  on Staistical Methods for Food Engineers`, will be organized by Department of Food Technology, Saintgits College of Engineering (Autonomous), Kottayam on 23 November, 2022 and 25 November, 2022.
-* ` Workshop on fundamentals of data analytics using R`, will be organized by Department of Computer Science, Ilahia College of Engineering and Technology, Muvattupuzha on 24 November, 2022.
+* ` Workshop  on Staistical Methods for Food Engineers`, by  Department of Food Technology, Saintgits College of Engineering (Autonomous), Kottayam on 23 November, 2022 and 25 November, 2022.
+* ` Workshop on fundamentals of data analytics using R`, by Department of Computer Science, Ilahia College of Engineering and Technology, Muvattupuzha on 24 November, 2022.
 
 
 ## New sessions from December 2022 onwards 
