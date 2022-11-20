@@ -79,7 +79,9 @@ from 1 st December, 2019 to 2 nd December, 2019.
 
 ### **Next Session:**
 
-* ` Workshop on fundamentals of data analytics using R`, will be organized by Department of Computer Science, Ilahia College of Engineering and Technology, Muvattupuzha on 25 November, 2022.
+* ` Workshop  on Staistical Methods for Food Engineers`, will be organized by Department of Food Technology, Saintgits College of Engineering (Autonomous), Kottayam on 23 November, 2022 and 25 November, 2022.
+* ` Workshop on fundamentals of data analytics using R`, will be organized by Department of Computer Science, Ilahia College of Engineering and Technology, Muvattupuzha on 24 November, 2022.
+
 
 ## New sessions from December 2022 onwards 
  
