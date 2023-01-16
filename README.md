@@ -77,12 +77,14 @@ from 1 st December, 2019 to 2 nd December, 2019.
 * `Artificial Intelligence and Data Analytics for Electrical Engineering Applications`, one day workshop organized by Department of Electrical & Electronics Engineering, Sree Budha College of Engineering, Pattoor on 27, October 2022.
 * ` Foundations of Applied Mathematics`, KTU Bridge programme for B.Tech Students, organized by Gov.~Engineering College (RIT), Kottayam on 5 November, 2022.
 * `Need and significance of Computational Mathematics` , interactive demonstration organized by Department of Mathematics, Baselius College, Kottayam on 16 November, 2022.
+* ` Workshop  on Staistical Methods for Food Engineers`, by  Department of Food Technology, Saintgits College of Engineering (Autonomous), Kottayam on 23 November, 25 November and 30 November,2022.
+* ` Workshop on fundamentals of data analytics using R`, by Department of Computer Science, Ilahia College of Engineering and Technology, Muvattupuzha on 29 November, 2022.
+* ` Mathematics for Machine Learning`, by Department of Computer Science, GCET, Bangluru on 7 January, 2023.
 
 ### **Upcoming Sessions:**
 
-* ` Workshop  on Staistical Methods for Food Engineers`, by  Department of Food Technology, Saintgits College of Engineering (Autonomous), Kottayam on 23 November, 25 November and 30 November,2022.
-* ` Workshop on fundamentals of data analytics using R`, by Department of Computer Science, Ilahia College of Engineering and Technology, Muvattupuzha on 29 November, 2022.
-
+* ` PyWorks 1.0- Python for Engineers`, 3 day FDP organized by Department of Computer Science, Ilahia College of Engineering and Technology, Muvattupuzha from 25 January, 2023 to 28 January, 2023.
+* ` Data Analytics`, 5 day FDP organized by Department of Computer Science, Ilahia College of Engineering and Technology, Muvattupuzha from 1 February, 2023 to 5 January, 2023.
 
 ## New sessions from December 2022 onwards 
  
