@@ -79,7 +79,7 @@ from 1 st December, 2019 to 2 nd December, 2019.
 * ` Workshop on Staistical Methods for Food Engineers`, by  Department of Food Technology, Saintgits College of Engineering (Autonomous), Kottayam on 23 November, 25 November and 30 November,2022.
 * ` Workshop on fundamentals of data analytics using R`, by Department of Computer Science, Ilahia College of Engineering and Technology, Muvattupuzha on 29 November, 2022.
 * ` Mathematics for Machine Learning`, by Department of Computer Science, GCET, Bengaluru on 7 January, 2023.
-* `Applications of Big Data Analytics and cloud Computing Techniques in Smart Grid Energy Management`, APJ KTU Sponsored Faculty development Programme organized by Department of Electrical & Electronics, Saintgits College of Engineering (Autonomous) from 16 January, 2023 to 20 January 2023.
+* `Applications of Big Data Analytics and cloud Computing Techniques in Smart Grid Energy Management`, APJ KTU Sponsored Faculty Development Programme organized by Department of Electrical & Electronics, Saintgits College of Engineering (Autonomous) from 16 January, 2023 to 20 January 2023.
 
 ### **Upcoming Sessions:**
 
