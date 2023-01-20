@@ -43,7 +43,6 @@ Kottayam from 31 November, 2018 to 1 st December, 2018.
 
 * `Review on Random Process & Markov Models`, Two Days Workshop Organized by Department of ECE, MBC College of Engineering, Idukki, Kerala from 3 rd December,
 2018 to 4 th December, 2019.
-
 * `Research Methodology & Data Analysis through SPSS`, One Day Workshop Organized by Saintgits College of Applied Sciences on 6 th December, 2018.
 * `Mathematical Modelling & Optimization of systems`, FSDT Organized by Gov.Engg. College, Kannur from 17 th January, 2019 to 18 th January, 2019.
 * `Scientific Computing for Mathematics Graduates`, One Day Workshop Organized by Department of Mathematics, Al-Ameen College, Edathala, Kochi, Kerala on 19 th
@@ -80,6 +79,7 @@ from 1 st December, 2019 to 2 nd December, 2019.
 * ` Workshop on Staistical Methods for Food Engineers`, by  Department of Food Technology, Saintgits College of Engineering (Autonomous), Kottayam on 23 November, 25 November and 30 November,2022.
 * ` Workshop on fundamentals of data analytics using R`, by Department of Computer Science, Ilahia College of Engineering and Technology, Muvattupuzha on 29 November, 2022.
 * ` Mathematics for Machine Learning`, by Department of Computer Science, GCET, Bengaluru on 7 January, 2023.
+* `Applications of Big Data Analytics and cloud Computing Techniques in Smart Grid Energy Management`, APJ KTU Sponsored Faculty development Programme organized by Department of Electrical & Electronics, Saintgits College of Engineering (Autonomous) from 16 January, 2023 to 20 January 2023.
 
 ### **Upcoming Sessions:**
 
