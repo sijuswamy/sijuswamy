@@ -87,7 +87,7 @@ from 1 st December, 2019 to 2 nd December, 2019.
 * ` PyWorks 1.0- Python for Engineers`, 3 day FDP organized by Department of Artificial Intelligence & Data Sciences, Ilahia College of Engineering and Technology, Muvattupuzha from 25 January, 2023 to 28 January, 2023.
 
 * ` Data Analytics`, 5 day FDP organized by Department of Computer Science, Sree Budha College of Engineering and Technology, Pattoor from 1 February, 2023 to 5 February, 2023.
-* 
+
 * `Computational Mathematics for Robotics`, 2 day FDP organized by Department of Electronics & Communication Engineering, Saintgits College of Engineering (Autonomous), Kottayam from 6 February, 2023 to 7 February, 2023.
 
 ### **Upcoming Sessions:**
