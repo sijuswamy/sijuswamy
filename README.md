@@ -84,10 +84,12 @@ from 1 st December, 2019 to 2 nd December, 2019.
 * ` Mathematics for Machine Learning`, by Department of Computer Science, GCET, Bengaluru on 7 January, 2023.
 * `Applications of Big Data Analytics and cloud Computing Techniques in Smart Grid Energy Management`, APJ KTU Sponsored Faculty Development Programme organized by Department of Electrical & Electronics, Saintgits College of Engineering (Autonomous) from 16 January, 2023 to 20 January 2023.
 
+* ` PyWorks 1.0- Python for Engineers`, 3 day FDP organized by Department of Artificial Intelligence & Data Sciences, Ilahia College of Engineering and Technology, Muvattupuzha from 25 January, 2023 to 28 January, 2023.
+* ` Data Analytics`, 5 day FDP organized by Department of Computer Science, Sree Budha College of Engineering and Technology, Pattoor from 1 February, 2023 to 5 February, 2023.
+
 ### **Upcoming Sessions:**
 
-* ` PyWorks 1.0- Python for Engineers`, 3 day FDP organized by Department of Computer Science, Ilahia College of Engineering and Technology, Muvattupuzha from 25 January, 2023 to 28 January, 2023.
-* ` Data Analytics`, 5 day FDP organized by Department of Computer Science, Sree Budha College of Engineering and Technology, Pattoor from 1 February, 2023 to 5 February, 2023.
+* ` A Modern Approach to Research Methodology `, 3 day FDP organized by Department of Computer Science, Ilahia College of Engineering and Technology, Muvattupuzha from 8 January, 2023 to 10 January, 2023.
 
 ## New sessions from December 2022 onwards 
  
