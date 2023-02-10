@@ -1,5 +1,8 @@
-## Siju K S
+## Siju K S 
+📱 8921293399, 9447609301
 
+:email: sijuswamy@gmail.com, siju.swamy@saintgits.org
+:india:
 <!--
 **sijuswamy/sijuswamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
