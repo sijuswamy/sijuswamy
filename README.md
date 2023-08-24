@@ -99,7 +99,7 @@ from 1 st December, 2019 to 2 nd December, 2019.
 
 ### **Upcoming Sessions:**
 
-*` Data Analytics Using R Programming`, Five days workshop organized by Department of Computer Science, Vimal Jyothi College of Engineering, Kannur, from September 28 to October 1, 2023
+* `Data Analytics Using R Programming`, Five days workshop organized by Department of Computer Science, Vimal Jyothi College of Engineering, Kannur, from September 28 to October 1, 2023
 ## New sessions offered 
  
 ⚡**Foundations of Quantum Computing**
