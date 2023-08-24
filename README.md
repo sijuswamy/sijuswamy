@@ -93,10 +93,14 @@ from 1 st December, 2019 to 2 nd December, 2019.
 * ` A Modern Approach to Research Methodology `, 3 day FDP organized by Department of Computer Science, Ilahia College of Engineering and Technology, Muvattupuzha from 8 January, 2023 to 10 January, 2023.
 * `Intel-Unnati Preparatory Hands-on training` for Industrial training offered by Intel on 15 May, 2023
   
+* `Introduction to ChatGPT- Evolution, Promises & Limitations`( Technical session ), 2 day national seminar - ChatGPT: Unveiling its multifaceted impact on religion, education and society, organized by IQAC, Mar Augusthinose College, Ramapuram and sponsored by IISR, New Delhi in collaboration with MG University, Kottayam from 29 June, 2023 to 30 June 2023.
+  
+* `Applications of AI Tools in Teaching and Learning`, a one-day Workshop organized by Alphonsa College, Palai, on July 21, 2023
+
 ### **Upcoming Sessions:**
 
-* `Introduction to ChatGPT- Evolution, Promises & Limitations`( Technical session ), 2 day national seminar - ChatGPT: Unveiling its multifaceted impact on religion, education and society, organized by IQAC, Mar Augusthinose College, Ramapuram and sponsored by IISR, New Delhi in collaboration with MG University, Kottayam from 29 June, 2023 to 30 June 2023.
-## New sessions from December 2022 onwards 
+*` Data Analytics Using R Programming`, Five days workshop organized by Department of Computer Science, Vimal Jyothi College of Engineering, Kannur, from September 28 to October 1, 2023
+## New sessions offered 
  
 ⚡**Foundations of Quantum Computing**
 
