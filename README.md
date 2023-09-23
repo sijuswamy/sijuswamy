@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ## About me 🤔
 
-Faculty member in Department of Mathematics, Saintgits College of Engineering (Autonomous), Kottayam. Handling classes in pure & Applied Mathematics , and presently serving as a Resource Person for the AI & ML course offered by IIT Madras and Gov. of Kerala. Serving as Data Analytics consultant for Finance, Economics , Social Sciences and Engineering .
+Faculty member in Department of Mathematics, Saintgits College of Engineering (Autonomous), Kottayam. Handling classes in Pure, Computational & Applied mathematics and presently serving as a Resource Person for the AI & ML course offered by IIT Madras and Gov. of Kerala. Serving as Data Analytics consultant for Finance, Economics , Social Sciences and Engineering .
 
 As a part of the professional life I have over 18 years of experience in Teaching that involved Undergraduate, Graduate, Post Graduate and Professional courses in Science , Engineering & Technology.
 
@@ -32,20 +32,19 @@ During my stint at computational mathematics, I  have trained through ToTs from 
 >**Academic Area**
 
 
-* First Rank in B.Sc~(Mathematics) from Mahatma Gandhi University
+* First Rank in B.Sc (Mathematics) from Mahatma Gandhi University
 * Best Project Proposal Award from RACCS , St. Thomas College, Palai
 * Scholorship for Post Graduation in Mathematics from National Board for Higher Mathematics
 * Fourth Rank in M.Sc(Mathematics) from Mahatma Gandhi University
 * IUCEE certified teaching faculty through International Engineering Educators Certification Program 
-* Selected as a Resourse person for AI\& ML programme offered by Gov.~of Kerala with the technical support of IIT, Madras.
+* Selected as a Resource person for AI\& ML programme offered by Gov.of Kerala with the technical support of IIT, Madras.
+* Selected as an Institutional Mentor for Intel-Unnati programme
 
 >**FDPs/STTPs as Resource Person**
 
-* `Research Data Analysis Using R`, Two Days Workshop Organized by Research and PG Department of Commerse, K.G. College Pampady. Sponsored by M.G. University,
-Kottayam from 31 November, 2018 to 1 st December, 2018.
+* `Research Data Analysis Using R`, Two Days Workshop Organized by Research and PG Department of Commerce, K.G. College Pampady. Sponsored by M.G. University, Kottayam from 31 November, 2018 to 1 st December, 2018.
 
-* `Review on Random Process & Markov Models`, Two Days Workshop Organized by Department of ECE, MBC College of Engineering, Idukki, Kerala from 3 rd December,
-2018 to 4 th December, 2019.
+* `Review on Random Process & Markov Models`, Two Days Workshop Organized by Department of ECE, MBC College of Engineering, Idukki, Kerala from 3 rd December, 2018 to 4 th December, 2019.
 * `Research Methodology & Data Analysis through SPSS`, One Day Workshop Organized by Saintgits College of Applied Sciences on 6 th December, 2018.
 * `Mathematical Modelling & Optimization of systems`, FSDT Organized by Gov.Engg. College, Kannur from 17 th January, 2019 to 18 th January, 2019.
 * `Scientific Computing for Mathematics Graduates`, One Day Workshop Organized by Department of Mathematics, Al-Ameen College, Edathala, Kochi, Kerala on 19 th
@@ -99,7 +98,7 @@ from 1 st December, 2019 to 2 nd December, 2019.
 
 ### **Upcoming Sessions:**
 
-* `Data Analytics Using R Programming`, Five days workshop organized by Department of Computer Science, Vimal Jyothi College of Engineering, Kannur, from September 28 to October 1, 2023
+* `Data Analytics Using R Programming`, Five days workshop organized by Department of Computer Science, Vimal Jyothi College of Engineering, Kannur, from October 11 to October 15, 2023
 ## New sessions offered 
  
 ⚡**Foundations of Quantum Computing**
