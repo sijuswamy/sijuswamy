@@ -1,6 +1,6 @@
 ## Siju K S 
 📱 8921293399, 9447609301
-🌐 https://sijuswamy.github.io/mywebsite/
+:🌐: https://sijuswamy.github.io/mywebsite/
 :email: sijuswamy@gmail.com, siju.swamy@saintgits.org
 :india:
 <!--
