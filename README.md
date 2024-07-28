@@ -40,7 +40,8 @@ During my stint at computational mathematics, I  have trained through ToTs from 
 * IUCEE certified teaching faculty through International Engineering Educators Certification Program 
 * Selected as a Resource person for AI\& ML programme offered by Gov.of Kerala with the technical support of IIT, Madras.
 * Selected as an Institutional Mentor for Intel-Unnati programme
-
+* Selected as BoS member(Mathematics) of Assumptions College, Changanachery (2023-2024 &2024-2025 AY)
+* Selected as BoS member(External Subject Expert- CS & Allied Programs) of APJAKTU (KTU) , Thiruvananthapuram (2024-2025 AY)
 >**FDPs/STTPs as Resource Person**
 
 * `Research Data Analysis Using R`, Two Days Workshop Organized by Research and PG Department of Commerce, K.G. College Pampady. Sponsored by M.G. University, Kottayam from 31 November, 2018 to 1 st December, 2018.
@@ -95,11 +96,17 @@ from 1 st December, 2019 to 2 nd December, 2019.
   
 * `Introduction to ChatGPT- Evolution, Promises & Limitations`( Technical session ), 2 day national seminar - ChatGPT: Unveiling its multifaceted impact on religion, education and society, organized by IQAC, Mar Augusthinose College, Ramapuram and sponsored by IISR, New Delhi in collaboration with MG University, Kottayam from 29 June, 2023 to 30 June 2023.
   
-* `Applications of AI Tools in Teaching and Learning`, a one-day Workshop organized by Alphonsa College, Palai, on July 21, 2023
+* `Applications of AI Tools in Teaching and Learning`, a one-day Workshop organized by Alphonsa College, Palai on July 21, 2023.
+ 
+* `Data Analytics Using R Programming`, Five days workshop organized by Department of Computer Science, Vimal Jyothi College of Engineering, Kannur from October 11 to October 15, 2023.
+  
+* `Applications of Integral Transforms in Engineering`, a Webinar organized by Mangalam College of Engineering, Kottayam, on May 14 2024.
+  
+*  `Innovative insights: Python, AI&ML`, a three-day Faculty Training Programme organized by Ilahia College of Engineering & Technology, Muvattupuzha from July 24 to July 26, 2024.
 
 ### **Upcoming Sessions:**
+* `Advanced tools for Professional Literal Programming`, a three-day workshop organized by Institutional Innovationa Council, Saintgits College of Engineering (Autonomous) from  2 August 2 to 4 August, 2024.
 
-* `Data Analytics Using R Programming`, Five days workshop organized by Department of Computer Science, Vimal Jyothi College of Engineering, Kannur, from October 11 to October 15, 2023
 ## New sessions offered 
  
 ⚡**Foundations of Quantum Computing**
