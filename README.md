@@ -105,7 +105,7 @@ from 1 st December, 2019 to 2 nd December, 2019.
 *  `Innovative insights: Python, AI&ML`, a three-day Faculty Training Programme organized by Ilahia College of Engineering & Technology, Muvattupuzha from July 24 to July 26, 2024.
 
 ### **Upcoming Sessions:**
-* `Advanced tools for Professional Literal Programming`, a three-day workshop organized by Institutional Innovationa Council, Saintgits College of Engineering (Autonomous) from  2 August 2 to 4 August, 2024.
+* `Advanced tools for Professional Literal Programming`, a three-day workshop organized by Institutional Innovation Council, Saintgits College of Engineering (Autonomous) from  2 August 2 to 4 August, 2024.
 
 ## New sessions offered 
  
