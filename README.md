@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Faculty member in Department of Mathematics, Saintgits College of Engineering (Autonomous), Kottayam. Handling classes in Pure, Computational & Applied mathematics and presently serving as a Resource Person for the AI & ML course offered by IIT Madras and Gov. of Kerala. Serving as Data Analytics consultant for Finance, Economics , Social Sciences and Engineering .
 
-As a part of the professional life I have over 18 years of experience in Teaching that involved Undergraduate, Graduate, Post Graduate and Professional courses in Science , Engineering & Technology.
+As a part of the professional life I have over 20 years of experience in Teaching that involved Undergraduate, Graduate, Post Graduate and Professional courses in Science , Engineering & Technology.
 
 During my stint at computational mathematics, I  have trained through ToTs from prominent institutes like IIT(M), ASDC (Gov.of Kerala) in modern technologies like Machine Learning, Deep Learning, Reinforcement Learning and Business Analytics. Currently handling skill training related to Research, AI and Analytics services of research scholars. 
 
